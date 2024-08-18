@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel! 👋
+# Olá, eu sou o Gabi! 👋
 
 💻 **Desenvolvedor Fullstack na Altimus** | Focado em React, Java e tecnologias modernas
 
