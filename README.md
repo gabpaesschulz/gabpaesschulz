@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabi! 👋
 
-💻 **Desenvolvedor Fullstack na Expresso São Miguel** | Focado em React, Java e tecnologias modernas
+💻 **Desenvolvedor Fullstack na Céos Lab** | Focado em React, Java e tecnologias modernas
 
 Sou um desenvolvedor apaixonado por criar soluções que não só funcionam bem, mas que também proporcionam uma ótima experiência para o usuário. Com foco em frontend, adoro explorar novas tecnologias e aprimorar minhas habilidades, sempre buscando entregar código limpo e eficiente.
 
