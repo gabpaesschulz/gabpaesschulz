@@ -1,28 +1,91 @@
-# Olá, eu sou o Gabi! 👋
+# Hey, I'm Gabi 👋
 
-💻 **Desenvolvedor Fullstack na Paytrack** | Focado em React, Java e tecnologias modernas
+**Fullstack Developer at Paytrack**  
+Building products with **TypeScript, React, Next.js and Java** — with a strong focus on **frontend experience, product thinking and clean architecture**.
 
-Sou um desenvolvedor apaixonado por criar soluções que não só funcionam bem, mas que também proporcionam uma ótima experiência para o usuário. Com foco em frontend, adoro explorar novas tecnologias e aprimorar minhas habilidades, sempre buscando entregar código limpo e eficiente.
+I like building software that feels polished in both directions:  
+not just solid under the hood, but also pleasant to use.
 
-### 🚀 Tecnologias e Ferramentas:
-- **Frontend:** React, Next.js, TypeScript
-- **Backend:** Java, Spring, Strapi
-- **Ferramentas:** Git, VSCode, IntelliJ
+Today, my work and personal projects usually live somewhere between:
 
-### 🌱 Atualmente, estou aprendendo:
-- Desenho digital e UI/UX design para expandir minhas habilidades criativas.
-- Melhores práticas em desenvolvimento open-source e colaboração em equipe.
-
-### 🎯 Objetivos:
-- Contribuir para projetos open-source que impactem positivamente a comunidade.
-- Continuar evoluindo como desenvolvedor e me manter atualizado com as tendências de tecnologia.
-
-### 📫 Como me encontrar:
-- **LinkedIn:** [Gabriel Paes Schulz](https://www.linkedin.com/in/gabrielpaesschulz/)
-- **Email:** [gabriel_paes@live.com](mailto:gabriel_paes@live.com)
-
-> "A persistência e o esforço são as chaves para o sucesso. O talento é um bônus."
+- **modern web apps**
+- **developer tooling**
+- **local-first / privacy-first products**
+- **carefully crafted UI/UX**
+- **fullstack systems with real product thinking**
 
 ---
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou explorar meus repositórios.
+## 🚀 What I work with
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- Strapi
+
+### Tools & Workflow
+- Git
+- VS Code
+- IntelliJ IDEA
+- Figma
+- Postman
+
+---
+
+## 🧠 What I'm focused on now
+
+- Building more polished **product-driven side projects**
+- Improving my skills in **UI/UX and interface design**
+- Creating tools that are not only useful, but also **beautiful and enjoyable to use**
+- Growing more in **open source**, architecture and developer experience
+
+---
+
+## ✨ A few things I like building
+
+- **developer tools** that remove boilerplate and improve DX
+- **personal productivity apps** with strong UX
+- **local-first apps** focused on privacy
+- **dashboards and planning tools**
+- **fullstack products** with clear real-world use cases
+
+---
+
+## 🎯 Goals
+
+- Build projects that stand out by **quality, clarity and usability**
+- Contribute more to **open source**
+- Keep evolving as a developer with stronger product and design sense
+- Work on software that people genuinely enjoy using
+
+---
+
+## 📌 Featured projects
+
+You can explore my repositories to find projects involving:
+
+- **form abstraction and developer experience**
+- **financial planning tools**
+- **watch/show planners**
+- **real-time dashboards**
+- **fullstack app architecture experiments**
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [Gabriel Paes Schulz](https://www.linkedin.com/in/gabrielpaesschulz/)
+- **Email:** [gabriel_paes@live.com](mailto:gabriel_paes@live.com)
+
+---
+
+> “Persistence beats intensity when consistency stays in the game.”
+
+Thanks for stopping by — feel free to explore my repositories and connect with me.
