@@ -49,7 +49,7 @@ const { register, handleSubmit, formState: { errors, isPending } } =
 
 > PDF → Anki flashcards in under 60 seconds, powered by LLMs.
 
-Built and shipped end-to-end: Next.js + TypeScript frontend, LLM API integration, freemium model with three tiers (Free / Pro R$29/mo / Lifetime R$297), payment gateway with card, PIX and boleto, CI/CD on Vercel, real users since 2024.
+Built and shipped end-to-end: Next.js + TypeScript frontend, LLM API integration, freemium model with three tiers (Free / Pro R$29/mo / Lifetime R$297), payment gateway with card, PIX and boleto, CI/CD on Vercel.
 
 Not a demo. Not a tutorial clone. A product.
 
