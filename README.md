@@ -117,13 +117,12 @@ Built end-to-end: Next.js + TypeScript, LLM API integration, freemium model with
 
 <br/>
 
-## ✦ GitHub
+## ✦ What I care about technically
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabpaesschulz&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabpaesschulz&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs"/>
-</p>
+Library design and developer experience · Architecture decisions that age well · Testing as a design tool · Local-first and offline-capable patterns · The product side of engineering
 
 <br/>
 
-<p align="center"><em>"Persistence beats intensity when consistency stays in the game."</em></p>
+<p align="center">
+  <a href="https://linkedin.com/in/gabrielpaesschulz">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:gabriel_paes@live.com">gabriel_paes@live.com</a>
+</p>
