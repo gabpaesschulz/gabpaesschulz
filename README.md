@@ -72,7 +72,7 @@ npm i hookform-action-core
 
 Built end-to-end: Next.js + TypeScript, LLM API integration, freemium model with three tiers, payment gateway (card · PIX · boleto) and CI/CD on Vercel.
 
-> Not a tutorial clone. Not just a landing page. A real product with pricing, payment flow and usage intent.
+> Not a tutorial clone. Not just a landing page. A real product with pricing and a full payment flow.
 
 <br/>
 
@@ -113,7 +113,7 @@ Built end-to-end: Next.js + TypeScript, LLM API integration, freemium model with
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-&nbsp;·&nbsp; TDD · SOLID · Clean Code · Hexagonal Architecture
+&nbsp;·&nbsp; TDD · SOLID · Hexagonal Architecture
 
 <br/>
 
